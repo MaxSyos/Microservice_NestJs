@@ -6,7 +6,7 @@ This is a [NestJS](https://github.com/nestjs/typescript-starter) template config
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-samples/template-nestjs)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/MaxSyos/Microservice_NestJs)
 
 ## Get Started With Your Own Project
 
