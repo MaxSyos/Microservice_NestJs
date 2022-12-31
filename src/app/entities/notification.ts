@@ -12,7 +12,7 @@ export interface NotificationProps {
 export class Notification {
     private props: NotificationProps;
     
-    constructor(pros: NotificationProps) {
+    constructor(props: NotificationProps) {
         this.props = props;
     }
 
