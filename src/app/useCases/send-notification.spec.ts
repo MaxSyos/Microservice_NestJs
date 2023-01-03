@@ -1,4 +1,11 @@
+import { Notification } from "../entities/notification";
 import { SendNotification } from "./send-notification"
+
+const notificationRepository = {
+    async create(notification: Notification) {
+        console.log(notification)
+    }
+}
 
 describe('Send Notification', () => {
     it('should be able to send a notification', async () => {
